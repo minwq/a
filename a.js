@@ -143,7 +143,7 @@ document.write('                    </form>');
 document.write('                </div>');
 document.write('                <div class="col-md-6 login-form-2">');
 document.write('                    <h3>Teacher Login</h3>');
-document.write('                    <form method="GET" action="http://winnme.rf.gd/login.php" aria-label="Login">');
+document.write('                    <form method="GET" action="http://winnme.atwebpages.com/login.php" aria-label="Login">');
 document.write('                        <input type="hidden" name="_token" value="pD4uQ9fsZKli4PHRjitW0rREbHLzbNICOoOi9doZ">                        <div class="form-group">');
 document.write('                          <label class="labelText whiteText" for="email">Email:</label>');
 document.write('                          <div class="full">');
